@@ -1,2 +1,2 @@
 # startup-landing-page
-Landing page project with Mailchimp signup page
+Landing page project with Mailchimp subscribe page
